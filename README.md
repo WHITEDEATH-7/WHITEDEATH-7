@@ -35,9 +35,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WHITEDEATH-7&show_icons=true&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=WHITEDEATH-7&show_icons=true&count_private=true&include_all_commits=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WHITEDEATH-7&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHITEDEATH-7&layout=compact" />
 
 ---
 
