@@ -15,10 +15,9 @@
 
 ## 🛠 Tech Stack
 ### Languages
-- JavaScript
 - Java
+- JavaScript
 - Python
-- TypeScript
 - SQL
 
 ### Frameworks & Tools
@@ -27,7 +26,7 @@
 - Node.js
 - Express
 - Django
-- PostgreSQL
+- Supabase
 - MongoDB
 - Git & GitHub
 - Docker
