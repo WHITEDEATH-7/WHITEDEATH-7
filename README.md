@@ -32,12 +32,6 @@
 - Git & GitHub
 - Docker
 
----
-
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=WHITEDEATH-7&show_icons=true&count_private=true&include_all_commits=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHITEDEATH-7&layout=compact" />
 
 ---
 
