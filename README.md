@@ -35,7 +35,7 @@
 ---
 
 ## 🌐 Connect With Me
-- 🌍 Portfolio: https://tusharjadav.dev
+- 🌍 Portfolio:  https://whitedeath-7.github.io/Portfolio/
 - 💼 LinkedIn: https://linkedin.com/in/tusharjadav
 
 
